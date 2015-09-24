@@ -1,0 +1,12 @@
+fdfsfsfитого 12
+-rw-rw-r-- 1 nikita nikita  4 сент. 11 01:15 README.md
+-rwxrwxr-x 1 nikita nikita 72 сент. 11 01:56 script.sh
+-rw-rw-r-- 1 nikita nikita  7 сент. 11 01:51 text.txt
+итого 36
+-rwxr-xr-x 1 nikita nikita  169 сент. 24 23:24 gitScript.sh
+-rw-rw-rw- 1 nikita nikita  160 сент. 24 23:27 gitScript.txt
+-rw-rw-r-- 1 nikita nikita    4 сент. 11 01:15 README.md
+-rwxrwxr-x 1 nikita nikita   72 сент. 11 01:57 script.sh
+-rwxrwxr-x 1 nikita nikita 8758 сент. 11 14:35 task2
+-rw-rw-r-- 1 nikita nikita  372 сент. 11 14:35 task2.c
+-rw-rw-r-- 1 nikita nikita  197 сент. 11 01:56 text.txt
